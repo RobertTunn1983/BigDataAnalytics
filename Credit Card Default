@@ -36,8 +36,6 @@
     {
       "cell_type": "markdown",
       "source": [
-        "#**Data Analysis**\n",
-        "#**Robert Livingstone**\n",
         "\n",
         "<br>\n",
         "The aim of this coursework is to examine a dataset and thereafter propose a supervised machine learning model which could be used by financial institutions to predict the likelihood of a debtor defaulting on their credit card payments. The dataset used to formulate the model is taken from the online UCI database on the default of Credit Card clients available at:\n",
